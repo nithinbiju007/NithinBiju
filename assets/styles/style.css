@@ -51,7 +51,7 @@
   --color-surface-3: #202021;
   --color-accent: #70f3ff;
   --color-error: #B84C4C;
-  --color-gradient: linear-gradient(137.84deg, #70f3ff 26.31%, #FFBC5E 93.75%);
+  --color-gradient: linear-gradient(137.84deg, #70f3ff 26.31%, #70f3ff 93.75%);
   --color-gradient-soft: linear-gradient(135deg, rgba(255, 218, 109, 0.0375) 0%, rgba(255, 189, 94, 0) 100%), #1E1E1F;
   --color-gradient-text: linear-gradient(90deg, #70f3ff, #FFBC5E);
   --color-gradient-border: linear-gradient(155deg, #FFDA6D 0%, rgba(255, 191, 96, 0) 50%);
